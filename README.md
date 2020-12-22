@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Atualmente 
-  Sou:
-    Desenvolvedor Júnior;
-    Acadêmico de Análise e Desenvolvimento de Sistemas;
-    
-  Estou:
-    Trabalhando: Linguagem Clarion,
-    Aprendendo: ReactJs, Redux, Webpack, Spring Boot, Spring Data e Lombok;
-  
+Atualmente
+
+ * [Sou](#Sou)
+   > * Desenvolvedor Júnior;
+   > * Acadêmico de Análise e Desenvolvimento de Sistemas;
+
+ * [Estou](#Estou)
+   > * Trabalhando Com: Linguagem Clarion / FullStack
+   > * Aprendendo/Estudando: ReactJs, Redux, Webpack, Spring Boot, Spring Data e Lombok
+   
   
