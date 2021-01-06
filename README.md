@@ -1,21 +1,6 @@
-### Seja bem vindo ao meu perfil :)
+## Seja bem vindo ao meu perfil :)
 
-<!--
-**BrunoHM/BrunoHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Atualmente
+#### Atualmente
 
  * [Sou](#Sou)
    > * Desenvolvedor Júnior;
@@ -23,6 +8,12 @@ Atualmente
 
  * [Estou](#Estou)
    > * Trabalhando Com: Linguagem Clarion / FullStack
-   > * Aprendendo/Estudando: ReactJs, Redux, Webpack, Spring Boot, Spring Data e Lombok
+   > * Estudando: ReactJs, Redux, Webpack, Spring Boot, Spring Data e Lombok
    
-  
+ * [Atuações](#Atuações)
+   > * Front-End: Html5, css3, Javascript, Jquery, ReactJs, Bootstrap e material-ui.
+   > * Back-End: Clarion, Delphi, Java, Spring Boot, Spring Data e Lombok.
+   > * Banco de Dados: Mysql, Postegresql e Oracle.
+   
+ * [Línguas](#Línguas)
+   > * Inglês: boa capacidade de leitura, interpretação e audição (Intermediário). Escrita e conversação (Básico).
