@@ -7,7 +7,7 @@
    > * Acadêmico de Análise e Desenvolvimento de Sistemas;
 
  * [Estou](#Estou)
-   > * Trabalhando Com: Linguagem Clarion / FullStack
+   > * Trabalhando Com: Java e vue.JS
    > * Estudando: ReactJs, Redux, Webpack, Spring Boot, Spring Data e Lombok
    
  * [Atuações](#Atuações)
