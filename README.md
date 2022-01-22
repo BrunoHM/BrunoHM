@@ -3,16 +3,16 @@
 #### Atualmente {
 
  * [Sou](#Sou)
-   > * Desenvolvedor Analista Pleno;
+   > * Desenvolvedor de Sistemas Pleno;
    > * Acadêmico de Análise e Desenvolvimento de Sistemas;
 
  * [Estou](#Estou)
    > * Trabalhando Com: Java
-   > * Estudando: ReactJs, Redux, Webpack, Spring Boot, Spring Data e Lombok
+   > * Estudando: Java, ReactJs, Redux e Arquiteturas(Clean e Hexagonal).
    
  * [Atuações](#Atuações)
    > * Front-End: Html5, css3, Javascript, Jquery, ReactJs, Bootstrap e material-ui.
-   > * Back-End: Clarion, Delphi, Java, Spring Boot, Spring Data e Lombok.
+   > * Back-End: Java, Spring Boot, Spring Data e Lombok.
    > * Banco de Dados: Mysql, PostegreSql, Oracle e SqlServer.
    
  * [Línguas](#Línguas)
@@ -24,4 +24,3 @@
   > * Arduino
   > * IoT
   > * Impressão 3d
-  
