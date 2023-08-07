@@ -4,11 +4,11 @@
 
  * [Sou](#Sou)
    > * Desenvolvedor de Sistemas Pleno;
-   > * Acadêmico de Análise e Desenvolvimento de Sistemas;
+   > * Formado em Análise e Desenvolvimento de Sistemas;
 
  * [Estou](#Estou)
    > * Trabalhando Com: Java
-   > * Estudando: Java, ReactJs, Redux e Arquiteturas(Clean e Hexagonal).
+   > * Estudando: Java, AWS e Arquiteturas(Clean e Hexagonal).
    
  * [Atuações](#Atuações)
    > * Front-End: Html5, css3, Javascript, Jquery, ReactJs, Bootstrap e material-ui.
@@ -16,7 +16,7 @@
    > * Banco de Dados: Mysql, PostegreSql, Oracle e SqlServer.
    
  * [Línguas](#Línguas)
-   > * Inglês: boa capacidade de leitura, interpretação e audição (Intermediário). Escrita e conversação (Básico).
+   > * Inglês: Avançado
 
 }
  
