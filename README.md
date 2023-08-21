@@ -3,7 +3,7 @@
 #### Atualmente {
 
  * [Sou](#Sou)
-   > * Desenvolvedor de Sistemas Pleno;
+   > * Desenvolvedor de Sistemas;
    > * Formado em Análise e Desenvolvimento de Sistemas;
 
  * [Estou](#Estou)
